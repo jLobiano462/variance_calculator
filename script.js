@@ -95,7 +95,7 @@ const generateData = (arr)=>{
 
 
 
-  ss.textContent = 'SS=' + ssItem
+  ss.textContent = 'SS=' + ssItem.toFixed(2)
   variance.textContent ='Variance=' + varItem.toFixed(2)
   sd.textContent = 'Standard deviation=' + stanDev.toFixed(2)
 }
