@@ -110,6 +110,7 @@ h1{
 .variance-table thead{
   color: white;
   background: linear-gradient(to right,rgb(10,199,142),rgb(24, 245, 171));
+
 }
 
 
@@ -140,6 +141,7 @@ h1{
   box-shadow: 0 -2px 3px grey;
   text-align: center;
   font-family: 'Pacifico';
+  height: 20%;
 
 }
 
